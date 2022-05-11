@@ -16,4 +16,4 @@ run with:
 
 
 ## demo
-you can try the demo from heroku: [demo](https://dashboard.heroku.com/apps/simple-multipage-website-101)
+you can try the demo from heroku: [demo](https://simple-multipage-website-101.herokuapp.com/)
